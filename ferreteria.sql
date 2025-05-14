@@ -1,6 +1,6 @@
 CREATE TABLE cargos (
     car_id INTEGER PRIMARY KEY,
-    car_desc VARCHAR(100@)
+    car_desc VARCHAR(100)
 );
 
 CREATE TABLE deposito (
